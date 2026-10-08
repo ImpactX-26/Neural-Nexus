@@ -1,6 +1,6 @@
 # LearnoryX
 
-## Autonomous Agentic AI for the Germany Applicant Journey
+## Agentic AI for the Germany Applicant Journey
 
 LearnoryX is an **Agentic AI-powered applicant journey platform** designed for people from India who want to pursue **higher education, vocational training, internships, employment, or other career opportunities in Germany**.
 
